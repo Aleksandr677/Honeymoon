@@ -27,3 +27,5 @@ Stack:
 8. Custom transitions
 9. Custom elements
 10. Custom animations
+11. Dark / Light mode
+12. iPhone / iPad compatibility
